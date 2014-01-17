@@ -12,6 +12,7 @@
         <asp:Button ID="btn" Text="EmptyTable" runat="server" />
 			wow
 			mantap
+			gila
          <asp:Button ID="Button1" Text="Table With Data" runat="server" />
     </div>
     </form>
